@@ -120,3 +120,6 @@ home
 
 # solutions
 *_solution.ipynb
+/.idea/
+/competitions/catboost_info/
+/catboost_info/
