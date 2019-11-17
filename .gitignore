@@ -119,10 +119,7 @@ data/athlete_events.csv
 home
 
 # solutions
-*_solution.ipynb
+#*_solution.ipynb
 /.idea/
 /competitions/catboost_info/
 /catboost_info/
-!/jupyter_english/quizzes_fall2019/quiz2_linear_models_solution.ipynb
-!/jupyter_english/assignments_fall2019/assignment4_time_series_solution.ipynb
-!/jupyter_english/quizzes_fall2019/quiz3_unsupervised_and_time_series_solution.ipynb
